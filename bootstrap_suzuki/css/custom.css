@@ -1,0 +1,25 @@
+body {
+	padding-left: 3%;
+	padding-right: 3%;
+}
+
+.links ul li a {
+	color: black; 
+}
+.car-and-ev {
+	padding-top: 20px;
+	display: flex;
+}
+.events {
+	background-color: #bcb7bc;
+}
+.events ul {
+	list-style-type: none;
+	margin: auto;
+}
+.events ul button {
+	padding-bottom: 3%;
+}
+.news_table .row {
+	max-height: 300px;
+}
